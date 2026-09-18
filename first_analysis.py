@@ -14,7 +14,7 @@ df.plot(
     y="Value",
     kind="bar",
     legend=False,
-    title="Example APDV Visualisation"
+    title="My first rajj APDV Visualisation"
 )
 
 plt.ylabel("Value")
